@@ -1,0 +1,37 @@
+./dot-czech-engine
+Economics high school textbook
+> Failure:
+engine word: ?
+reference word: 
+> Failure:
+engine word: ?
+reference word: 
+> Failure:
+engine word: ?
+reference word: 
+> Failure:
+engine word: ?
+reference word: 
+> Failure:
+engine word: ?
+reference word: 
+> Failure:
+engine word: ?
+reference word: 
+File failures: 6, file words: 10567, accuracy rate: 99,943 %, file characters: 74277
+Facebook posts
+File failures: 0, file words: 2421, accuracy rate: 100,000 %, file characters: 15725
+Physics high school textbook
+> Failure:
+engine word: ?
+reference word: &λ
+> Failure:
+engine word: ?
+reference word: &λ
+> Failure:
+engine word: ?
+reference word: Ω
+File failures: 3, file words: 3205, accuracy rate: 99,906 %, file characters: 21800
+Twitter posts
+File failures: 0, file words: 1117, accuracy rate: 100,000 %, file characters: 7330
+Total failures: 9, total words: 17310, accuracy rate: 99,948 %, total characterss: 119132

@@ -1,0 +1,244 @@
+﻿Úvod do učiva fyziky
+Úkolem fyziky je popsat svět kolem nás, popsat vlastnosti objektů (těles) pomocí fyzikálních veličin a nacházet zákonitosti mezi nimi. 
+Původně fyzika (název pochází z řeckého slova fysis = příroda) shromažďovala všechny poznatky. 
+S novými poznatky o přírodě se pak od fyziky postupně oddělovaly např. biologie, chemie, astronomie a řada dalších věd. 
+Současná fyzika zkoumá nejobecnější zákonitosti přírody, tj. zákonitosti, které platí pro přírodu živou i neživou, pro všechna tělesa kolem nás, pro každou částici těchto těles, pro naši Zemi a celou sluneční soustavu, pro celý vesmír.
+Současná fyzika se zabývá studiem obecných zákonitostí hmoty, které platí pro živou i neživou přírodu, pro Zemi i pro celý vesmír. 
+Přírodní jevy popisujeme pomocí fyzikálních pojmů.  
+Základními fyzikální pojmy jsou hmota, prostor a čas. 
+Zkoumání hmoty je v současnosti již v úrovni filozofie podstaty lidského poznání. 
+Hmota z filozofického pohledu je objektivní realitou - matérií v nejrozmanitějších formách, působí na naše smysly a odráží se v našem vědomí. 
+Prostor a čas jsou obecné vlastnosti hmoty.  
+Formu hmoty možno nazvat látka – převládá její korpuskulární povaha, má přetržitou strukturu. 
+Ke strukturám látkových forem hmoty patří základní mikročástice (elektrony, protony, neutrony), z nich jsou vytvářeny složitější částice (atomy, ionty, molekuly), z nich pak makroskopické částice v různých skupenstvích (tuhé látky, kapaliny, plyny). 
+Formu hmoty možno nazvat pole – převládá její vlnová povaha, má nepřetržitou strukturu. 
+Obecnou vlastností látek i polí je vzájemné setrvačné a silové působení částic, jehož mírou je  hmotnost [kg].
+2. Fyzikální veličiny a jednotky 
+Poznatky o fyzikálních jevech získáváme pozorováním přírody nebo pokusy. 
+Současně s pozorováním provádíme obvykle i měření. To je základem fyziky. 
+Objevovat fyziku znamená také poznávat možností měření veličin, které jsou s ní spjaty. 
+Nazýváme je fyzikálními veličinami. 
+Fyzikální veličiny jsou měřitelné vlastnosti fyzikálních těles. Jsou určeny číselnou hodnotou a jednotkou.  
+Abychom mohli fyzikální veličinu popsat, zavedeme nejprve její jednotku, tj. takovou míru této veličiny, které přisoudíme číselnou hodnotu přesně 1,0. 
+Poté vytvoříme standart, s nímž budeme všechny ostatní hodnoty dané fyzikální veličiny porovnávat. Například jednotkou délky je metr. 
+Fyzikální jednotky jsou určeny dohodou (ČSN; SI ).
+Měření je porovnávání neznámé veličiny s jednotkou veličiny. 
+Měření délky: používáme délková měřidla - metr skládací, svinovací, krejčovský - pásmo - posuvné měřítko - mikrometr 
+Jednotka délky metr byl zaveden 1792 ve Francii. Definován byl jako jedna desetimiliontina vzdálenosti od severního pólu k rovníku. 
+Zkratka m vychází z názvu poledníku –meridián. 
+Současná definice metru (od roku 1983): Jeden metr je vzdálenost, kterou světlo urazí ve vakuu za dobu 1/299 792 458 sekundy. 
+Prototypu metru je uložen v archívu Mezinárodního úřadu pro váhy a míry v Sévres u Paříže. 
+Protože je uložen v archívu, říká se mu také někdy archivní metr. 
+Tento prototyp slouží jako vzor pro výrobu národních kopií, ze kterých se pak odvozují všechna vyráběná měřidla. 
+Konečnou podobu získal prototyp metru roku 1889. 
+Je to  tyč ze slitiny platiny a iridia (9 : 1 ) s průřezem ve tvaru H, na které je dvěma vrypy vyznačena vzdálenost 1 m.
+Standardní jednotkou hmotnosti je kilogram. 
+Původně byl definován jako hmotnost jednoho litru (tj. 1 dm kubický) vody. 
+Nyní je podle mezinárodní úmluvy určen hmotností válce vyrobeného ze slitiny platiny a iridia, který je uložen v Mezinárodním ústavu pro míry v Sevres u Paříže.
+Měření času: používáme hodiny - sluneční, vodní, ručičkové, kyvadlové, elektrické, atomové - stopky 
+Pojem čas můžeme chápat různými způsoby. V běžném životě potřebujeme znát denní čas, abychom mohli popsat sled událostí. 
+Ve vědecké práci je zase většinou důležité, jak dlouho daná událost trvala. Každý standart času tedy musí umožňovat odpověď na dvě otázky:  
+„Kdy se to stalo?“
+„Jak dlouho to trvalo?“ 
+Standardem času může být jakýkoliv jev, který se pravidelně opakuje. 
+Po staletí sloužilo tomuto účelu otáčení Země, které určovalo délku dne. 
+Od roku 1967 je za základní jednotku času považována sekunda, odvozená od frekvence kmitů cesiových hodin. 
+Jejich přesnost je taková, že by trvalo 6 000 let, než by se dvoje hodiny rozešly o více než 1 s. 
+Převody jednotek času: 
+1 den = 24 h = 1 440 min = 86 400 s 
+1 h = 60 min = 3 600 s 
+6 min = 0,1 h 
+1 min = 60 s
+6 s = 0,1 min 
+Mechanika 
+Je to část fyziky, která zkoumá klid a pohyb těles a hledá příčiny a zákonitosti mechanického pohybu. 
+Rozdělení: 
+- kinetika: část mechaniky, která zkoumá pohyb bez ohledu na jeho příčinu 
+- dynamika: část mechaniky, která zkoumá příčiny klidu nebo pohybu tělesa 
+Mechanický pohyb je každá změna polohy tělesa vůči jiným tělesům. 
+Klid  je stav, kdy těleso vzájemně nemění polohu vůči jinému tělesu. 
+Klid a pohyb a klid těles jsou relativní. (relativní = vztažný, poměrný) 
+Fyzikální těleso je každá ohraničená část látky bez ohledu na skupenství. 
+Hmotný bod  je každé těleso, jehož rozměry lze vzhledem k uvažovaným vzdálenostem zanedbat. 
+Trajektorie pohybu je souvislá čára, kterou opisuje hmotný bod p ř i mechanickém pohybu. 
+Dynamika 
+Je to část mechaniky, která zkoumá zákonitosti pohybu tělesa z hlediska jeho příčin. 
+Příčinou změny pohybu tělesa je jeho vzájemné působení s jinými tělesy. 
+Síla: fyzikální veličina, která se projevuje ve vzájemném působení těles. Chápeme ji jako míru tohoto působení těles. 
+Jestliže má síla za následek změnu pohybového stavu tělesa, mluvíme o pohybovém neboli dynamickém účinku síly. 
+Newtonovy pohybové zákony 
+První pohybový zákon – zákon setrvačnosti 
+Každé těleso setrvává v klidu nebo rovnoměrně přímočarém pohybu, dokud není přinuceno silovým působením jiných těles tento stav změnit. 
+Vlastnost tělesa setrvat v klidu nebo v rovnoměrném pohybu se nazývá setrvačnost tělesa. 
+Praxe: bezpečnostní pásy, opěrka hlavy, nasazování kladiva na násadu, vyklepávání prachu z koberce, vytřepávání vody ze srsti zvířat 
+Druhý pohybový zákon – zákon síly 
+Zrychlení a, které uděluje síla F tě lesu o hmotnosti m, je přímo úměrné velikosti F této síly a nepřímo úměrné hmotnosti tělesa m, tedy a = m F
+Pro sílu platí: F = m.a
+Setrvačnou hmotnost vypočítáme: m = a F
+Definice newtonu: Jeden newton (N) je síla, která udělí tělesu o hmotnosti 1 kg zrychlení 1 metr za sekundu.
+N = kg . m . s-2
+Třetí pohybový zákon – zákon akce a reakce 
+Síly, kterými na sebe vzájemně působí dvě tělesa, jsou stejně velké, navzájem opačného směru, současně vznikají a zanikají a každá z nich působí na jiné těleso.
+Mechanická práce 
+Jestliže na těleso působí stálá síla (F) a těleso se přemisťuje po přímé trajektorii ve směru působící síly pak k popisu účinku síly zavádíme veličinu mechanická práce. 
+Značka: W jednotka: joul [J]; [džaul] 
+ Společným znakem všech těles konajících práci je:
+1. silové působení na jiné těleso, 
+2. přemisťování tohoto tělesa nebo jeho částí.
+Mechanická práce je přímo úměrná součinu síly F a dráhy s po které síla působí. 
+W = F . s 
+Práce je menší, působí-li síla šikmo. 
+W = F . s . cosa 
+Jestliže těleso podpíráme nebo držíme na závěsu a těleso se nepohybuje, nekonáme z fyzikálního hlediska mechanickou práci.
+Mechanická energie 
+Pojem energie je velmi široký toto slovo užíváme v běžné řeči naprosto samozřejmě a do značné míry i volně. Definovat ji jako fyzikální veličinu však není vůbec snadné. My se spokojíme s velmi hrubou a neúplnou charakteristikou pojmu energie. Energie je veličina, jejíž hodnota je určena stavem fyzikální soustavy.
+Výkon 
+Míra toho jak „rychle“ koná určitá síla práci.  
+Je to veličina, pomocí které porovnáváme velikost vykonané práce za určitý čas. 
+značka: P jednotka: watt [W] vztah: P = t W
+Mechanickou práci můžeme vypočítat i ze vztahu: W = P . t
+Účinnost 
+Zavádíme ji k posouzení hospodárnosti strojů. 
+Určujeme ji jako podíl užitečné práce W a celkové práce W0 stroji dodané, nebo jako podíl výkonu P a příkonu P0.  
+Účinnost všech strojů h < 1 neboli h < 100 %.
+Mechanika tuhého tělesa 
+Statika: část mechaniky, která se zabývá podmínkou rovnováhy sil. 
+Tuhé těleso je ideální těleso, jehož tvar ani objem se působením libovolně velkých sil nemění.
+Mechanika tekutin 
+Je část mechaniky, která se zabývá mechanickými vlastnostmi tekutin, tj. silami v kapalinách a plynech a pohybem kapalin a plynů (prouděním). 
+Tekutiny – pod tento společný název zahrnujeme kapaliny a plyny, případně i plazma (žhavý ionizovaný plyn) – mají základní význam pro náš život. Dýcháme je a pijeme, základní životní tekutina - krev – obíhá v našich tepnách a žilách. Moře i ovzduší je tekuté. 
+Základní vlastností je tekutost, ta způsobuje, že tekutiny mohou měnit svůj tvar. Rozdílná tekutost  souvisí s vnitřním třením kapaliny (viskozita, vazkost) 
+Ideální kapalina: nemá vnitřní tření, je dokonale tekutá a zcela nestlačitelná, je-li v klidu, vytváří v tíhovém poli Země volný vodorovný povrch, vodorovnou hladinu 
+Ideální plyn: nemá vnitřní tření, je dokonale tekutý a dokonale stlačitelný.
+Tlak 
+Fyzikální veličina charakterizující stav tekutiny v klidu (prudce vytékající voda z kohoutku, napjatá stěna kopacího míče). 
+značka: p jednotka: Pa (Pascal)
+Pascalův zákon 
+Tlak vyvolaný vnější silou, která působí na kapalinu v uzavřené nádobě, je ve všech místech kapaliny stejný. 
+Pascalův zákon mluví o přenosu tlaku do libovolného místa v kapalině, přitom se tlak nikde neztrácí.
+Přenos tlaku je umožněn pohybem částic kapaliny a rozkladem vzájemných sil mezi nimi do všech směrů. Pascalův zákon neříká, že tlak je v celé kapalině stejný. 
+Např. hydrostatický tlak je v menší hloubce menší, ve větší hloubce větší. 
+Tlačením na kapalinu vzroste tlak ve všech místech stejně, ale rozdíly z hydrostatického tlaku zůstanou. 
+Tento zákon platí i pro plyny. 
+Praxe: hydraulické brzdy, zvedák, vysouvání podvozku letadel, zubařské křeslo, hydraulický lis, pneumatické buchary, pneumatická kladiva a vrtačky, pneumatické brzdy u vlaků.
+Částicová stavba látek 
+Látky se skládají z velkého množství částic – molekul, atomů, iontů, které se neustále chaoticky pohybují v závislosti na teplotě látky. 
+Tento neuspořádaný pohyb částic označujeme jako tepelný pohyb. 
+Vzájemné působení částic se projevuje přitažlivými silami a současně silami odpudivými. 
+Velikost těchto sil závisí na vzdálenosti mezi částicemi. 
+Látky rozdělujeme na: 
+1. pevné – pevné těleso má stálý tvar i objem, umožňuje to rovnováha mezi přitažlivými a odpudivými silami pevné látky mohou být krystalické nebo amorfní 
+2. kapalné - kapalná tělesa  mají  stálý objem a tvar podle nádoby, přitažlivé síly jsou menší než u pevných látek, částice snadno mění polohu, ale nemohou se pohybovat volně 
+3. plynné: plynná tě lesa mají nestálý objem i tvar, síly vzájemného působení mezi částicemi mají malý dosah 
+Teplota 
+Je základní veličinou molekulové fyziky a termiky. 
+Souvisí se stavem tělesa. Vychází z našeho pocitu tepla a zimy. 
+Teploty, jejíž hodnoty vyjadřujeme v různých teplotních stupnicích, rozlišujeme značkou: 
+T– termodynamická teplota (jednotka K – kelvin) 
+Kelvin je 273,16 díl termodynamické teploty trojného bodu vody. 
+Kelvin patří mezi základní jednotky SI. Touto jednotkou se stal Kelvin (skotský matematik a fyzik W. Thomson lord Kelvin 1824 -1907) na XIII. generální konferenci pro míry a váhy v roce 1967. 
+t – teplota v Celsiově stupnici (jednotka °C) 
+Celsiův stupeň je vedlejší jednotka soustavy SI pro teplotu. 
+V roce 1742 ve Švédsku astronom Anders Celsius (1701-1744) použil pro tuhnutí vody 100 stupňů a pro var vody 0 stupňů. 
+Stupnici rozdělil na 100 dílů. Jeho stupnice byla později otočena. 
+platí: 0 K = 273,15 °C 
+Teplota 0 K je počátkem termodynamické teplotní stupnice
+Kmitavý pohyb je takový pohyb, kdy se těleso nebo hmotný bod pohybuje po úsečce nebo kruhovém oblouku kolem rovnovážné polohy. 
+Jestliže rovnovážnou polohou prochází v pravidelných časových intervalech, koná periodický kmitavý pohyb.  
+Rovnovážná poloha je taková poloha, kde má těleso nejmenší potenciální energii. 
+Po skončení pohybu těleso zůstává v rovnovážné poloze, dokud na n ě j nezačne působit vnější síla. 
+Nejjednodušší kmitavý pohyb je harmonický pohyb. 
+Je to takový pohyb, kdy je okamžitá výchylka z rovnovážné polohy závislá na funkci sinus. 
+Grafem výchylky harmonického pohybu v závislosti na čase je sinusoida. 
+Harmonický kmitavý pohyb je pravoúhlý průmět rovnoměrného pohybu po kružnici. 
+Rovnovážná poloha je ve středu kružnice.  
+Při pohybu mechanického oscilátoru se okamžitá výchylka y periodicky mění a vzhledem k rovnovážné poloze nabývá kladných i záporných hodnot. 
+V určitých časech dosahuje y největší kladné, popř. záporné hodnoty. 
+Mechanické vlnění  
+Vlnění je jedním z nejrozšířenějších fyzikálních jevů. 
+Má podobu zvuku, světla, rozhlasového či televizního vysílání atd.  
+Mechanické vlnění je děj, při němž se kmitání šíří látkovým prostředím. 
+Šíření vln není spojeno s přenosem látky (vlny na rybníku loďku z kůry neposunou). 
+Vlněním se však přenáší energie.  Postupné mechanické vlnění
+Vzniká v látkách všech skupenství, jeho příčinou je existence vazebných sil mezi částicemi (atomy, molekuly) prostředí, kterým se vlnění šíří. 
+Pružné prostředí je prostředí kde se kmitání jedné částice přenáší vzájemnou vazbou na další částici. 
+Současně se na částici přenáší energie kmitavého pohybu.  
+Přenosem kmitání mezi částicemi pružného vlnění se přenáší vlna. 
+Jestliže hmotný bod, který je zdrojem vlnění kmitá harmonicky, vzniká mechanická vlna sinusového průběhu. 
+Elektrické pole 
+Je to prostor, ve kterém se projevuje silový účinek elektricky nabitého tělesa. 
+„Elektřina“ je jev známý již od starověku.  
+Příčinou tohoto jevu je veličina: elektrický náboj  
+značka: Q jednotka: C (coulomb) 
+Elektrický náboj je:
+Vlastnost částice nebo tělesa, která udává jeho elektrické vlastnosti. 
+To, že náboj je vlastnost částice, znamená, že náboj se nemůže vyskytovat samostatně, vždy je vázán na částici, případně více částic, které tvoří těleso.  
+Fyzikální veličina, která popisuje velikost náboje. 
+Když má částice nebo těleso elektrický náboj, má schopnost vyvolat silové působení mezi dalším tělesem s elektrickým nábojem. 
+Rezistor 
+Pasivní elektrotechnická součástka projevující se v elektrickém obvodu v ideálním případě jedinou vlastností – elektrickým odporem. 
+Důvodem pro zařazení rezistoru do obvodu je obvykle snížení velikosti elektrického proudu nebo získání určitého úbytku napětí 
+Základem rezistoru je vodič s požadovanou hodnotou odporu, které lze dosáhnout použitím látky s určitou rezistivitou, určitou délkou a obsahem průřezu vodiče. 
+Vodič se používá buďto ve formě drátu nebo ve formě tenké vrstvy 
+Kvůli úspoře místa se dlouhý drát obvykle navíjí kolem izolačního tělíska, 
+Ohmův zákon 
+Zákon, který pojednává o vztahu mezi elektrickým napětím, proudem a odporem. 
+Proud (I), který prochází obvodem, je přímo úměrný napětí (U) mezi jeho konci.
+Změny skupenství 
+Tání a tuhnutí 
+Tání: změna skupenství pevného v kapalné
+Sublimace 
+Vypařovat se může také pevná látka, např. led při sušení prádla za mrazu. Změna látky z pevného skupenství na plynné se nazývá sublimace. Z prvků má tuto vlastnost jód. 
+Opačně může docházet ke změně plynů v pevnou látku, hovoříme o desublimaci. Např. vznik námrazy za mrazivého počasí. 
+Změny skupenství při různém tlaku 
+Tání při zvýšeném tlaku Pevná krystalická látka (led) taje při vyšším tlaku při nižší teplotě než je teplota tání (regelace ledu) Příklad : led pod bruslemi, sníh pod koly těžkého nákladního automobilu 
+Var při zvýšeném tlaku Kapalina (např. voda) vře při vyšším tlaku při vyšší teplotě než je teplota varu Příklad: vaření v tlakovém hrnci, výroba papíru, výroba páry, sterilizace lékařských nástrojů  
+Var při sníženém tlaku Kapalina (např. voda) vře při nižším tlaku při nižší teplotě než je teplota varu. Příklad: výroba marmelád, zahušťování cukru
+Tuhnutí: změna skupenství kapalného v pevné.  
+Měrné skupenské teplo tuhnutí krystalických látek je stejné jako měrné skupenské teplo tání. 
+Amorfní látky nemají teplotu tání.. Tají v určitém rozmezí teplot 
+Při tuhnutí  většina látek zmenšuje objem (sádlo, parafín, železo,…). Výjimku tvoří led. Zvětšením objemu zmrzlé vody působí praskání zmrzlých vodovodních trubek, silnic, skal. 
+Vypařování  
+Je děj, při kterém se mění kapalná látka v plynnou. Vypařování probíhá pouze v povrchové vrstvě kapaliny. 
+Periodický pohyb 
+Periodický pohyb je pohyb po uzavřené trajektorii, při kterém se těleso (hmotný bod) vrací pravidelně do výchozí polohy (pohyb pístu ve válci, pohyb kyvadla hodin). 
+Kmitavý pohyb 
+Kmitavý pohyb je takový pohyb, kdy se těleso nebo hmotný bod pohybuje po úsečce nebo kruhovém oblouku kolem rovnovážné polohy. Jestliže rovnovážnou polohou prochází v pravidelných časových intervalech, koná periodický kmitavý pohyb.  
+Rovnovážná poloha je taková poloha, kde má těleso nejmenší potenciální energii. Po skončení pohybu těleso zůstává v rovnovážné poloze, dokud na n ě j nezačne působit vnější síla.
+Nejjednodušší kmitavý pohyb je harmonický pohyb. Je to takový pohyb, kdy je okamžitá výchylka z rovnovážné polohy závislá na funkci sinus. Grafem výchylky harmonického pohybu v závislosti na čase je sinusoida. Harmonický kmitavý pohyb je pravoúhlý průmět rovnoměrného pohybu po kružnici. Rovnovážná poloha je ve středu kružnice.  
+Při pohybu mechanického oscilátoru se okamžitá výchylka y periodicky mění a vzhledem k rovnovážné poloze nabývá kladných i záporných hodnot. V určitých časech dosahuje y největší kladné, popř. záporné hodnoty. Absolutní hodnota největší výchylky je amplituda výchylky ym.
+Mechanické vlnění  
+Vlnění je jedním z nejrozšířenějších fyzikálních jevů. Má podobu zvuku, světla, rozhlasového či televizního vysílání atd.  
+Mechanické vlnění je děj, při němž se kmitání šíří látkovým prostředím. Šíření vln není spojeno s přenosem látky (vlny na rybníku loďku z kůry neposunou). Vlněním se však přenáší energie.  
+Postupné mechanické vlnění  
+Vzniká v látkách všech skupenství, jeho příčinou je existence vazebných sil mezi částicemi (atomy, molekuly) prostředí, kterým se vlnění šíří. 
+Pružné prostředí je prostředí kde se kmitání jedné částice přenáší vzájemnou vazbou na další částici. Současně se na částici přenáší energie kmitavého pohybu. Přenosem kmitání mezi částicemi pružného vlnění se přenáší vlna. Jestliže hmotný bod, který je zdrojem vlnění kmitá harmonicky, vzniká mechanická vlna sinusového průběhu. 
+Vlnová délka: vzdálenost, do níž se vlnění rozšíří za periodu T kmitání zdroje vlnění.  
+značka: λ jednotka: m vztah: λ = c . T 
+Elektrické pole 
+Je to prostor, ve kterém se projevuje silový účinek elektricky nabitého tělesa. 
+„Elektřina“ je jev známý již od starověku.  
+Příčinou tohoto jevu je veličina: elektrický náboj  
+značka: Q jednotka: C (coulomb) 
+Elektrický náboj je:
+1) Vlastnost částice nebo tě lesa, která udává jeho elektrické vlastnosti. To, že náboj je vlastnost částice, znamená, že náboj se nemůže vyskytovat samostatně, vždy je vázán na částici, případně více částic, které tvoří těleso.  
+2) Fyzikální veličina, která popisuje velikost náboje. Když má částice nebo těleso elektrický náboj, má schopnost vyvolat silové působení mezi dalším tělesem s elektrickým nábojem. 
+Elektrický proud  
+a) Fyzikální veličina Je určen velikostí elektrického náboje, který projde průřezem vodiče za 1 sekundu. Projde-li průřezem vodiče za dobu t náboj Q, prochází proud: I = t Q
+značka: I jednotka: A (ampér) přístroj: ampérmetr  
+b) Fyzikální jev 
+Volné elektrony v kovovém vodiči konají neustálý chaotický pohyb ve všech směrech, pohyb, jehož průmětná rychlost se zvětšuje s rostoucí teplotou vodiče. 
+Jakmile přiložíme  vodič k pólům zdroje napětí, uvedou síly elektrického pole volné elektrony do dalšího pohybu, do usměrněného pohybu v jednom směru: od záporného pólu zdroje k pólu kladnému. 
+Kovovým vodičem tak prochází po dobu jeho připojení ke zdroji elektrický proud. Současně s tímto usměrněným pohybem elektronů zůstává i jejich původní chaotický pohyb, tzv. tepelný pohyb vodiče: látky, které vedou elektrický proud (měď, hliník, zlato, tuha); izolanty: nevedou elektrický pro, mají malou elektrickou vodivost respektive velmi vysoký odpor (vakuum, umělá hmota, porcelán) 
+Dohodnutý neboli konvenční směr proudu je směr proudu od kladného zdroje k zápornému, tedy směr právě opačný než je skutečný směr pohybu volných elektronů v kovovém vodiči. 
+Odpor vodiče 
+Fyzikální veličina, která souvisí s molekulární stavbou látek. Každý vodič má jiný odpor. Odpor vodiče způsobuje, že proud tekoucí vodičem je zeslabován. 
+značka: R jednotka: Ω (ohm)
+Rezistor Pasivní elektrotechnická součástka projevující se v elektrickém obvodu v ideálním případě jedinou vlastností – elektrickým odporem. Důvodem pro zařazení rezistoru do obvodu je obvykle snížení velikosti elektrického proudu nebo získání určitého úbytku napětí 
+Základem rezistoru je vodič s požadovanou hodnotou odporu, které lze dosáhnout použitím látky s určitou rezistivitou, určitou délkou a obsahem průřezu vodiče. Vodič se používá buďto ve formě drátu nebo ve formě tenké vrstvy 
+Kvůli úspoře místa se dlouhý drát obvykle navíjí kolem izolačního tělíska, 
+Ohmův zákon 
+Zákon, který pojednává o vztahu mezi elektrickým napětím, proudem a odporem. 
+Proud (I), který prochází obvodem, je přímo úměrný napětí (U) mezi jeho konci.
+Jednoduchý elektrický obvod – sériové zapojení odporů (za sebou).
+Rozvětvený elektrický obvod. – paralelní zapojení odporů(vedle sebe).
